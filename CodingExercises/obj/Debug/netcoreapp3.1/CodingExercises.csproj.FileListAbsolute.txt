@@ -1,0 +1,13 @@
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\bin\Debug\netcoreapp3.1\CodingExercises.exe
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\bin\Debug\netcoreapp3.1\CodingExercises.deps.json
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\bin\Debug\netcoreapp3.1\CodingExercises.runtimeconfig.json
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\bin\Debug\netcoreapp3.1\CodingExercises.runtimeconfig.dev.json
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\bin\Debug\netcoreapp3.1\CodingExercises.dll
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\bin\Debug\netcoreapp3.1\CodingExercises.pdb
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\obj\Debug\netcoreapp3.1\CodingExercises.csprojAssemblyReference.cache
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\obj\Debug\netcoreapp3.1\CodingExercises.AssemblyInfoInputs.cache
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\obj\Debug\netcoreapp3.1\CodingExercises.AssemblyInfo.cs
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\obj\Debug\netcoreapp3.1\CodingExercises.csproj.CoreCompileInputs.cache
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\obj\Debug\netcoreapp3.1\CodingExercises.dll
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\obj\Debug\netcoreapp3.1\CodingExercises.pdb
+C:\Users\Waqas\source\repos\Capita_Novus\CodingExercises\CodingExercises\obj\Debug\netcoreapp3.1\CodingExercises.genruntimeconfig.cache
